@@ -40,7 +40,7 @@ display_banner() {
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣾⣻⢧⣄⣀⣀⣀⣠⣽⣿⡿⠛⠻⠇⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠻⢿⢽⠯⣿⣿⠟
 
-                   CREATED BY : IAMUNIXTZ ON GITHUB
+                   CREATED BY : SHALLOCK
 \e[0m"
 }
 
